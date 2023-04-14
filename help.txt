@@ -1,0 +1,4 @@
+Below is the HELP guide for using Swiggy app on iOS & Android phones
+
+Q1) How to login to the Swiggy app
+Ans) Tap on Login --> Tap on 'Login using Phone number' --> Enter the OTP received --> Tap on Submit button --> You are now successfully logged into the Swiggy app
