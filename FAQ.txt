@@ -1,0 +1,5 @@
+Q1) Is this food delivery app available in India
+Ans) Yes, across all urban locations and metro cities of India
+
+Q2) Is this food delivery app available in other countries
+Ans) We would like to have it however we are currently operating only in India
