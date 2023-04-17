@@ -1,1 +1,1 @@
-This module talks about payment charges
+This module talks about internet payment charges
