@@ -1,2 +1,2 @@
 The initial draft of login design status is completed
-This is waiting for review
+This is waiting for review from Design team
