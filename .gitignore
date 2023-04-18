@@ -1,3 +1,7 @@
 devCredentials.txt
 qaCredentials.txt
 secrets/
+*.jpg
+*.jpeg
+*.csv
+*.css
