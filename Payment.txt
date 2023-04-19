@@ -1,1 +1,7 @@
 This module talks about internet gateway payment charges which the users has to pay when they order food online with Swiggy app.
+
+The payment charges are 1%
+
+Let the bank pay 1% to Swiggy
+
+Let Swiggy accept 1% from the bank
