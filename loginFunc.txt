@@ -1,0 +1,10 @@
+The user should be presented with 2 fields to enter username and password
+
+When these 2 fields are populated with text input and after validating the content in these 2 text fields, the LOGIN button has to be enabled else it has to be in disabled state
+
+The login button has to call a POST API to connect with the backend system and data transfer the login data
+
+The backend system will communicate with the database/server and confirm if the entered credentials are valid or invalid
+
+If valid, the response code has to be 200 OK
+If invalid, the response code has to be 400 Bad request
