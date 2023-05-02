@@ -9,3 +9,5 @@ The backend system will communicate with the database/server and confirm if the 
 If valid, the response code has to be 200 OK
 If invalid, the response code has to be 404 Unauthorized
 For other errors, the response code has to be 500 Internal Server Error
+
+this bug fix is done by Dev1Engineer to fix in US region
