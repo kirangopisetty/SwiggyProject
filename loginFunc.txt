@@ -9,4 +9,4 @@ The backend system will communicate with the database/server and confirm if the 
 If valid, the response code has to be 200 OK
 If invalid, the response code has to be 404 Unauthorized
 
-END OF DOCUMENT
+This line of code is added by DevLead and it will fix the bug across UK regions for loginFunc
