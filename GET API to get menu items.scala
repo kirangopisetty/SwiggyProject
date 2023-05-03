@@ -8,7 +8,6 @@ class TC1_GET extends Simulation {
 
   //http configuration
   val httpConf = http.baseUrl("https://reqres.in/")
-                 http.header("Accept", "application/json")
                  http.header("Content-Type", "application/json")
 
    //scenario configuration
