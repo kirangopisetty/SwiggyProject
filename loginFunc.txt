@@ -7,5 +7,6 @@ The login button has to call a POST API to connect with the backend system and d
 The backend system will communicate with the database/server and confirm if the entered credentials are valid or invalid
 
 If valid, the response code has to be 200 OK
+If invalid, the response code has to be 400 bad request
 If invalid, the response code has to be 404 Unauthorized
 For other errors, the response code has to be 500 Internal Server Error

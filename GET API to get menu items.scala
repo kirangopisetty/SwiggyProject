@@ -21,3 +21,4 @@ class TC1_GET extends Simulation {
      setUp(scn1.inject(atOnceUsers(1))).protocols(httpConf)
 
 }
+fixed the prod bug
